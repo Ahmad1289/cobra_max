@@ -8,9 +8,7 @@
 
 💭┇افتح ترمنال جديد 
 
-⚜┇انسخ رابط كيثاب السورس  ↡
-
-`git clone https://github.com/MAXTELE/MAX.git ;cd MAX;chmod +x ins;./ins`
+https://github.com/Ahmad1289/iraq_max/tree/master.git ;cd iraq_max;chmod +x ins;./ins`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
