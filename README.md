@@ -8,7 +8,7 @@
 
 💭┇افتح ترمنال جديد 
 
-https://github.com/Ahmad1289/cobra_max/blob/master/README.md.git ;cd cobra_max;chmod +x ins;./ins`
+https://github.com/Ahmad1289/cobra_max.git ;cd cobra_max;chmod +x ins;./ins`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
