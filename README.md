@@ -8,7 +8,7 @@
 
 💭┇افتح ترمنال جديد 
 
-https://github.com/Ahmad1289/cobra_max.git ;cd cobra_max;chmod +x ins;./ins`
+git clone https://github.com/Ahmad1289/cobra_max.git ;cd cobra_max;chmod +x ins;./ins`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
@@ -32,11 +32,11 @@ https://github.com/Ahmad1289/cobra_max.git ;cd cobra_max;chmod +x ins;./ins`
 
 💭┇كود رن السورس 
 
-`./MAX/run`
+`./cobra_max/run`
 
 💭┇كود حذف السورس 
 
-`rm -fr ./MAX`
+`rm -fr ./cobra_max`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
